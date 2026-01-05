@@ -1,11 +1,13 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.placeholder",
+      "package_name": "com.kaleidoscope.watchalong",
       "sha256_cert_fingerprints": [
-        "AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF:00:11:22:33:44:55:66:77:88:99"
+        "96:36:1E:C3:B3:B5:AE:8F:88:10:D7:73:FB:D7:B8:49:AB:69:55:2D:34:6C:6F:88:AE:20:B8:80:2A:00:0E:1A"
       ]
     }
   }
